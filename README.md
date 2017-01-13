@@ -5,7 +5,7 @@ Sinatra based server for Cowboy specifically built for Prowl written by Montana 
 
 ```
 cd httpdocs
-git clone git://github.com/montana/cowboy.git
+git clone http://www.github.com/montana/cowboy.git
 chmod u+x cowboy/cowboy.fcgi
 chmod u+x cowboy.rb
 ```
