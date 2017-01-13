@@ -13,8 +13,5 @@ chmod u+x cowboy.rb
 
 ```
 http://{yourdomain}/cowboyfcgi/
-=> Hellow Prowl!
-
 http://{yourdomain}/cowboycgi/hi
-=> Prowl 2!
 ```
