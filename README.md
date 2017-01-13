@@ -1,3 +1,5 @@
+(http://www.freeiconspng.com/uploads/cowboy-hat-png-11.png)
+
 # Cowboy
 Sinatra based server for Cowboy specifically built for Prowl written by Montana Mendy.
 
